@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Fight Fire with Fire 2007 (Extended mix)",
+  "base_artist": "Exdream",
+  "createdAt": "2025-12-01T00:26:30.677606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Fight the Feelings of Love",
+      "artist": "Charley Pride",
+      "has_synced": false,
+      "path": "select/01_Don't_Fight_the_Feelings_of_Love_Charley_Pride.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Fight the Feelings of Love",
+      "artist": "Charley Pride",
+      "has_synced": false,
+      "path": "select/02_Don't_Fight_the_Feelings_of_Love_Charley_Pride.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Fight",
+      "artist": "Lori McKenna",
+      "has_synced": true,
+      "path": "select/03_Good_Fight_Lori_McKenna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Fight",
+      "artist": "Lori McKenna",
+      "has_synced": true,
+      "path": "select/04_Good_Fight_Lori_McKenna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fight from the Inside",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/05_Fight_from_the_Inside_Queen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boys Wanna Fight",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/06_Boys_Wanna_Fight_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boys Wanna Fight",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/07_Boys_Wanna_Fight_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Fight the Darkness",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/08_Don't_Fight_the_Darkness_YACHT.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fight Or Flight",
+      "artist": "Lil Herb",
+      "has_synced": true,
+      "path": "select/09_Fight_Or_Flight_Lil_Herb.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Academy Fight Song",
+      "artist": "Mission of Burma",
+      "has_synced": true,
+      "path": "select/10_Academy_Fight_Song_Mission_of_Burma.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Academy Fight Song [1980 7\" Single]",
+      "artist": "Mission of Burma",
+      "has_synced": true,
+      "path": "select/11_Academy_Fight_Song_[1980_7__Single]_Mission_of_Burma.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Give Up the Fight",
+      "artist": "The Magic Numbers",
+      "has_synced": true,
+      "path": "select/12_Don't_Give_Up_the_Fight_The_Magic_Numbers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fight Night",
+      "artist": "Migos",
+      "has_synced": true,
+      "path": "select/13_Fight_Night_Migos.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fight Night",
+      "artist": "Migos",
+      "has_synced": true,
+      "path": "select/14_Fight_Night_Migos.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "For Once in Your Life Try to Fight for Something",
+      "artist": "Moi Caprice",
+      "has_synced": false,
+      "path": "select/15_For_Once_in_Your_Life_Try_to_Fight_for_Something_Moi_Caprice.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Monkey!!!Knife!!!Fight!!!",
+      "artist": "Minus the Bear",
+      "has_synced": false,
+      "path": "select/16_Monkey!!!Knife!!!Fight!!!_Minus_the_Bear.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Fight Song",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/17_The_Fight_Song_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Fight Song",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/18_The_Fight_Song_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Fight Fire with Fire 2007 (Extended mix)",
+      "artist": "Exdream",
+      "has_synced": false,
+      "path": "select/pl_Fight_Fire_with_Fire_2007_(Extended_mix)_Exdream.txt"
+    }
+  ]
+}
